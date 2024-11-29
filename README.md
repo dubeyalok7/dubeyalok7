@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning cryptography
 - 💞️ I’m looking to collaborate on linux kernel and cryptography
 - 📫 How to reach me, write directly to me @ dubeyalok7@gmail.com
+- ✨ Professional in Liquid Security (HSM) and Firmware development.
 
 <!---
 dubeyalok7/dubeyalok7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
